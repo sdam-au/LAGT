@@ -1,0 +1,4 @@
+# many standard libraries, like pandas, numpy, etc., but especially this:
+
+PyGithub
+sddk
