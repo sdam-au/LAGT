@@ -2,9 +2,9 @@
 ---
 
 ## Purpose
-The purpose of this repository is to extract, merge and clean all digitally available ancient Greek texts available in GitHub repositories associated with two projects:
-* Perseus Digital Library 
-* First 1000 Years of Greek 
+The purpose of this repository is to extract, merge and clean all digitally available ancient Greek texts available on GitHub repositories associated with two projects:
+* [Perseus Digital Library](https://github.com/PerseusDL/canonical-greekLit)
+* [First 1000 Years of Greek](https://github.com/OpenGreekAndLatin/First1KGreek)
 
 ---
 ## Authors
@@ -32,11 +32,11 @@ The raw data are from two GitHub repositories:
 * **Open Greek and Latin**: https://github.com/OpenGreekAndLatin/First1KGreek - XML files for the works in the First Thousand Years of Greek Project
 
 ### Software
-1. Google Colaboratory
+1. Jupyter Lab (Jupyter notebooks files)
 1. Sciencedata.dk web interface
 
 ### Registered account
-1. Google account
+1. Google account - to work with metadata
 2. Github account (to get raw data)
 3. Sciencedata.dk account (to work with preprocessed data to which point the script.
 4. S
@@ -48,14 +48,28 @@ You can either (1) clone the repo into your Google Drive and then open the scrip
 * `1_DATA-EXTRACTION.ipynb` 
 	* **description**: It extracts the data from public GitHub repositories (hundreds of tei-xml files), merges them into one Pandas dataframe and export this dataframe into a json file at sciencedata.dk. It also checks for duplicates in tlg codes in filesnames.  (e.g. `tlg0086.tlg010` is a tlg code  code for Aristotle's *Ethica Nicomachea*).
 	* **input**:  xml files located on GitHub, scrapped directly from there
-	* **output**: `SDAM_root/SDAM_data/AGT/data_merged_raw.json` -
-* `
-* `2_METADATA&LEMMATIZATION&OVERVIEW.ipynb` 
-	* **description**:  This scripts enriches the raw data in various ways, especially by dating and cultural provenience. Subsequently, it also applies functions from **anda.gr** package for lemmatization.
-	* **input**: `SDAM_root/SDAM_data/AGT/data_merged_raw.json`
-	* **output**:  `AGT.json` or `AGT_[timestamp].json`
+	* **output**: `AGT_raw_[yyyymmdd].json`
+    
+
+* `2_DATING&PROVENIENCE.ipynb` 
+	* **description**:  This scripts enriches the raw data in various ways, especially by dating and cultural provenience. It also removes duplicates. In splits collective works (e.g. New Testament and Homeric Hymns) as produced by individual authors.
+	* **input**: `AGT_raw_[yyyymmdd].json`
+	* **output**:  `AGT_dated_[yyyymmdd].json`
+  
+  
+  
+* `3_LEMMATIZATION.ipynb` 
+	* **description**: It produces lemmatized text as a list of words and a list of lemmatized sentences as a list of lists of words.
+    * **input**: `AGT_dated_[yyyymmdd].json
+    * **output**: `AGT_[yyyymmdd].json`
+    
+* `3_OVERVIEW.ipynb` 
+	* **description**: It produces various overview figures and tables
+    * **input**: `AGT_[yyyymmdd].json`
+    * **output**: various figures and tables
+ 
 * `VARIOUS.ipynb` 
-	* **description**: ` various scripts, mainly for testing
+	* **description**:  various scripts, mainly for testing
 
 
 Using [TLG metadata for dating](https://raw.githubusercontent.com/cltk/cltk/master/cltk/corpus/greek/tlg/author_date.py), we were able to get some sort of dating for 1,374 documents.
