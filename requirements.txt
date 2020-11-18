@@ -1,8 +1,11 @@
 # many standard libraries, like pandas, numpy, etc., but especially this:
 
+seaborn
 pyconll # working with universal dependencies files
 spacy # nlp
 greek-accentuation
+gspread
+gspread_dataframe
 
 PyGithub
 sddk
