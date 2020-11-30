@@ -1,4 +1,10 @@
 agtenv/
+<<<<<<< HEAD
 data/
 models/
 data/
+=======
+data/large_files/
+models/
+models-update
+>>>>>>> 7d1f2e9e0c28785ae2818cdede02046574f3cf75
