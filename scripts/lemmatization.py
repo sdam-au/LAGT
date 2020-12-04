@@ -3,6 +3,7 @@ from greek_accentuation.characters import strip_accents
 from greek_accentuation.syllabify import *
 from greek_accentuation.accentuation import *
 import spacy
+import re
 
 nlp = spacy.load("../models/spacy_grc_model_6")
 ag_lemma_lookup = nlp.vocab.lookups.get_table("lemma_lookup")
