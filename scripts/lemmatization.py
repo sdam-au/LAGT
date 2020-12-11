@@ -5,7 +5,7 @@ from greek_accentuation.accentuation import *
 import spacy
 import re
 
-nlp = spacy.load("../models/spacy_grc_model_6")
+nlp = spacy.load("../models/spacy_grc_model_7")
 ag_lemma_lookup = nlp.vocab.lookups.get_table("lemma_lookup")
 
 def grave_to_acute(string):
