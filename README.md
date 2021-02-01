@@ -1,10 +1,29 @@
-# AGT: Ancient Greek Texts
+# LAGT: Lemmatized Ancient Greek Texts
 ---
 
 ## Purpose
-The purpose of this repository is to extract, merge and clean all digitally available ancient Greek texts available on GitHub repositories associated with two projects:
+This repository serves for extraction, merging, cleaning and morphological analysis of publicly available ancient Greek texts accessible via two GitHub repositories:
 * [Perseus Digital Library](https://github.com/PerseusDL/canonical-greekLit)
 * [First 1000 Years of Greek](https://github.com/OpenGreekAndLatin/First1KGreek)
+
+The morphological analysis has been implemented using [spaCy](https://spacy.io) and consists of (1) a **coarse-grained POS-tagging** and (2) a dictionary-based **lemmatization**.
+
+The POS-tagger has been trained using two universal dependencies treebank data:
+* [Perseus](https://github.com/UniversalDependencies/UD_Ancient_Greek-Perseus/tree/master) (11,476 train sentences, 1,137 test sentences)
+* [PROIEL](https://github.com/UniversalDependencies/UD_Ancient_Greek-PROIEL/tree/master) (15,014 train sentences; 1,019 test sentences) 
+The lemmatizer relies on a stable version of the Greek part of Morpheus dictionary [link](https://github.com/gcelano/LemmatizedAncientGreekXML/tree/master/Morpheus). The dictionary is simplified, transformed into Python dictionary and reorganized with items arranged by postags:
+```python
+{"POSTAG1" : 
+	{"wordform1" : "lemma1",
+	 "wordform2" : "lemma1",
+	 ...},	 
+{"POSTAG2: : 
+	{...}}
+```
+The dictionary is further extended 
+
+
+
 
 ---
 ## Authors
@@ -24,7 +43,7 @@ CC-BY-SA 4.0, see attached License.md
 # How to use this repository
 
 ## Sources and prerequisites
-This repository contains scripts in Python 3. These scripts are mainly in  Jupyter Notebook file format and were developed primarily for usage in Google Colaboratory. However, it should be also possible to run them with your local Python and Jupyter Notebook/Lab environment. 
+This repository contains scripts in Python 3. These scripts are mainly in  Jupyter Notebook file format and it should be possible to run them with any local or cloud-bysed Python and Jupyter Notebook/Lab environment. 
 
 ### Data
 The raw data are from two GitHub repositories:
@@ -37,7 +56,7 @@ The raw data are from two GitHub repositories:
 
 ### Registered account
 1. Google account - to work with metadata
-2. Github account (to get raw data)
+2. Github account (to extract the raw data straightforward from Github)
 3. Sciencedata.dk account (to work with preprocessed data to which point the script.
 4. S
 
