@@ -5,7 +5,10 @@ This repository serves for extraction, merging, cleaning and morphological analy
 * [Perseus Digital Library](https://github.com/PerseusDL/canonical-greekLit)
 * [First 1000 Years of Greek](https://github.com/OpenGreekAndLatin/First1KGreek)
 
-At the same time, it serves for a development of a [spaCy](https://spacy.io)  model for ancient Greek, consisting of a POStagger and a lemmatizer.
+At the same time, it serves for a development of a [spaCy](https://spacy.io)  model for ancient Greek, consisting of a POStagger and a lemmatizer. This model can be used for other Greek datasets, for instance a dataset of inscriptions (see [https://github.com/sdam-au/PHI_ETL/scripts/1_4_py_LEMMATIZATION.ipynb](https://github.com/sdam-au/PHI_ETL/blob/master/scripts/1_4_py_LEMMATIZATION.ipynb)).
+
+Latest version of the data: [AGT_lemmatized_20201211.json](https://sciencedata.dk/public/164bd4b21e23faeb39221fb2ad03f16a/AGT_lemmatized_20201211.json)
+Latest version of the spaCy model: [spacy_grc_model_7.zip](https://sciencedata.dk/public/164bd4b21e23faeb39221fb2ad03f16a/spacy_grc_model_7.zip)
 
 ---
 ## Authors
