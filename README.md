@@ -87,7 +87,7 @@ The morphological analysis applied in `4_LEMMATIZATION_with-spacy.ipynb`has been
 'perseus_tags_correct%': 88.9405918229049,
 'perseus_lemmata_correct%': 87.15608764400271}
 ```
-(Detailed evaluation of the model still missing.)
+(The results of this systematically underestimate the performance of the model because of some differences in tokenization between universal dependencies data and spaCy - we have to mode modify the tokenizer.)
 
 ---
 ### Data
