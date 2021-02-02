@@ -1,12 +1,26 @@
 # LAGT: Lemmatized Ancient Greek Texts
 ---
-
 ## Purpose
 This repository serves for extraction, merging, cleaning and morphological analysis of publicly available ancient Greek texts accessible via two GitHub repositories:
 * [Perseus Digital Library](https://github.com/PerseusDL/canonical-greekLit)
 * [First 1000 Years of Greek](https://github.com/OpenGreekAndLatin/First1KGreek)
 
 At the same time, it serves for a development of a [spaCy](https://spacy.io)  model for ancient Greek, consisting of a POStagger and a lemmatizer.
+
+---
+## Authors
+* Vojtěch Kaše [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)]([0000-0002-6601-1605](https://www.google.com/url?q=http://orcid.org/0000-0002-6601-1605&sa=D&ust=1588773325679000)), SDAM project, vojtech.kase@gmail.com
+
+## License
+CC-BY-SA 4.0, see attached License.md
+
+## DOI
+[Here will be DOI or some other identifier once we have it]
+
+### References
+[Here will go related articles or other sources we will publish/create]
+
+---
 
 ## Description
 
@@ -34,41 +48,6 @@ The morphological analysis has been implemented using spaCy and consists of (1) 
 
 (2) The lemmatizor assigns lemmata from Morpheus on the basis of the POSTags. When it does not find any coinciding wordform-lemma pair, it tries to do a series of transformations with the wordform, namely automatic rebreathing, checking all possible accentuations. When still not successful, it tries to look for other POStags (For details, see `scripts/lemmatization.py`). In this way the lemmatizer might correct the POStagger.
 
----
-## Authors
-* Vojtěch Kaše [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)]([0000-0002-6601-1605](https://www.google.com/url?q=http://orcid.org/0000-0002-6601-1605&sa=D&ust=1588773325679000)), SDAM project, vojtech.kase@gmail.com
-
-## License
-CC-BY-SA 4.0, see attached License.md
-
-## DOI
-[Here will be DOI or some other identifier once we have it]
-
-### References
-[Here will go related articles or other sources we will publish/create]
-
----
-# How to use this repository
-
-## Sources and prerequisites
-This repository contains scripts in Python 3. These scripts are mainly in  Jupyter Notebook file format and it should be possible to run them with any local or cloud-bysed Python and Jupyter Notebook/Lab environment. 
-
-### Data
-The raw data are from two GitHub repositories:
-* **Perseus Digital Library**:  https://github.com/PerseusDL/canonical-greekLit - XML Canonical resources for Greek Literature
-* **Open Greek and Latin**: https://github.com/OpenGreekAndLatin/First1KGreek - XML files for the works in the First Thousand Years of Greek Project
-
-### Software
-1. Jupyter Lab (Jupyter notebooks files)
-1. Sciencedata.dk web interface
-
-### Registered account
-1. Google account - to work with metadata
-2. Github account (to extract the raw data straightforward from Github)
-3. Sciencedata.dk account (to work with preprocessed data to which point the script.
-
-You can clone the repo into your local machine or to a server and run the scripts with Jupyter
-
 * `1_DATA-EXTRACTION.ipynb` 
 	* **description**: It extracts the data from public GitHub repositories (hundreds of tei-xml files), merges them into one Pandas dataframe and export this dataframe into a json file at sciencedata.dk. It also checks for duplicates in tlg codes in filesnames.  (e.g. `tlg0086.tlg010` is a tlg code  code for Aristotle's *Ethica Nicomachea*).
 	* **input**:  xml files located on GitHub, scrapped directly from there
@@ -95,4 +74,24 @@ You can clone the repo into your local machine or to a server and run the script
 	* **description**: It produces various overview figures and tables
     * **input**: `AGT_lemmatized_[yyyymmdd].json`
     * **output**: various figures and tables
+
+# How to use this repository
+
+## Sources and prerequisites
+This repository contains scripts in Python 3. These scripts are mainly in  Jupyter Notebook file format and it should be possible to run them with any local or cloud-bysed Python and Jupyter Notebook/Lab environment. 
+
+### Data
+The raw data are from two GitHub repositories:
+* **Perseus Digital Library**:  https://github.com/PerseusDL/canonical-greekLit - XML Canonical resources for Greek Literature
+* **Open Greek and Latin**: https://github.com/OpenGreekAndLatin/First1KGreek - XML files for the works in the First Thousand Years of Greek Project
+
+### Software
+1. Python 3
+2. Jupyter Lab (Jupyter notebooks files)
+3. Sciencedata.dk web interface
+
+### Registered account
+1. Google account - to work with metadata
+2. Github account (to extract the raw data straightforward from Github)
+3. Sciencedata.dk account (to work with preprocessed data to which point the script.
  
