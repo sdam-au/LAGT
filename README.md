@@ -24,7 +24,7 @@ CC-BY-SA 4.0, see attached License.md
 
 ## Description
 
-Combining the texts from the two repositories, the data consist of 1,457 ancient Greek works, 2,891,346 sentences and 31,248,866
+The textual data consist of 1,457 ancient Greek works, 2,891,346 sentences and 31,248,866
 words (1,255 documents, 1,783,275 sentences, 21,086074 words from the period from 8th c. BCE to 4 c. CE). Using [TLG metadata for dating](https://raw.githubusercontent.com/cltk/cltk/master/cltk/corpus/greek/tlg/author_date.py), we were able to get some sort of dating for 1,374 documents. Next to it, we were able to classify 876 as either "christian" or "pagan" provenience. 
 
 The morphological analysis has been implemented using spaCy and consists of (1) a **coarse-grained POS-tagging** and (2) a dictionary-based **lemmatization**.
