@@ -6,12 +6,20 @@ This repository serves for extraction, merging, cleaning and morphological analy
 * [Perseus Digital Library](https://github.com/PerseusDL/canonical-greekLit)
 * [First 1000 Years of Greek](https://github.com/OpenGreekAndLatin/First1KGreek)
 
+## Description
+
+Taken together, the data consist of 1,457 ancient Greek works, 2,891,346 sentences and 31,248,866
+words (1,255 documents, 1,783,275 sentences, 21,086074 words from the period from 8th c. BCE to 4 c. CE).
+
 The morphological analysis has been implemented using [spaCy](https://spacy.io) and consists of (1) a **coarse-grained POS-tagging** and (2) a dictionary-based **lemmatization**.
 
-The POS-tagger has been trained using two universal dependencies treebank data:
+(1) The POS-tagger has been trained using two universal dependency treebanks:
 * [Perseus](https://github.com/UniversalDependencies/UD_Ancient_Greek-Perseus/tree/master) (11,476 train sentences, 1,137 test sentences)
 * [PROIEL](https://github.com/UniversalDependencies/UD_Ancient_Greek-PROIEL/tree/master) (15,014 train sentences; 1,019 test sentences) 
-The lemmatizer relies on a stable version of the Greek part of Morpheus dictionary [link](https://github.com/gcelano/LemmatizedAncientGreekXML/tree/master/Morpheus). The dictionary is simplified, transformed into Python dictionary and reorganized with items arranged by postags:
+(For details, see `scripts/TAGGER&LEMMATIZER_development.py`).
+
+(2) The lemmatizer relies on a stable version of the Greek part of Morpheus dictionary [link]
+(https://github.com/gcelano/LemmatizedAncientGreekXML/tree/master/Morpheus) containing  706,506 unique wordform-lemma pairs (we further extended it by  13,157 wordform-lemma pairs found in the training data. The dictionary was reorganized by items arranged by the postags:
 ```python
 {"POSTAG1" : 
 	{"wordform1" : "lemma1",
@@ -20,7 +28,12 @@ The lemmatizer relies on a stable version of the Greek part of Morpheus dictiona
 {"POSTAG2: : 
 	{...}}
 ```
-The dictionary is further extended 
+(For details see `scripts/MORPHEUS_PARSING+EXTENSION.ipynb`.
+
+(2) The lemmatizor assigns lemmata from Morpheus on the basis of the POSTags. When it does not find any coinciding wordform-lemma pair, it tries to do a series of transformations with the wordform, namely automatic rebreathing, checking all possible accentuations. When still not successful, it tries to look for other POStags (For details, see `scripts/lemmatization.py`). In this way the lemmatizer might correct the POStagger.
+
+
+
 
 
 
