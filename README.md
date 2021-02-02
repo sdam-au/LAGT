@@ -38,26 +38,26 @@ The scripts are located in `scripts` folder and usually have a form of Jupyter n
 	* **output**: `AGT_raw_[yyyymmdd].json`
     
 * `2_DATING&PROVENIENCE.ipynb` 
-	* **description**:  This scripts enriches the raw data in various ways, especially by dating and cultural provenience. It also removes duplicates. In splits collective works (e.g. New Testament and Homeric Hymns) as produced by individual authors.
+	* **description**:  This scripts enriches the raw data in various ways, especially by dating and cultural provenience. It also removes duplicates. It splits collective works (e.g. New Testament and Homeric Hymns) as produced by individual authors.
 	* **input**: `AGT_raw_[yyyymmdd].json`
 	* **output**:  `AGT_dated_[yyyymmdd].json`
   
 * `3_PREPROCESSING&RAW-VECTORS.ipynb` 
-	* **description**: It cleans the textual data, removing all odd characters etc.; split the text into sentences; generates word-vectors to help the POStagger.
-    * **input**: `AGT_dated_[yyyymmdd].json
-    * **output**: `AGT_preprocessed_[yyyymmdd].json`
-    * **output**: `data/word2vec_win2.txt`
+	* **description**: It cleans the textual data, removes all odd characters etc., splits the text into sentences, generates word-vectors to help the POStagger.
+    	* **input**: `AGT_dated_[yyyymmdd].json
+    	* **output**: `AGT_preprocessed_[yyyymmdd].json`
+    	* **output**: `data/word2vec_win2.txt`
   
 * `4_LEMMATIZATION_with-spacy.ipynb` 
 	* **description**: It produces lemmatized text as a list of words and a list of lemmatized sentences as a list of lists of words.
-    * **input**: `AGT_preprocessed_[yyyymmdd].json` 
-    * **output**: `AGT_lemmatized_[yyyymmdd].json` # full dataset with lemmatized sentences filtered by POStags (only NOUN, PROPN, ADJ, VERB)
-    * **output** `AGT_tagged_[yyyymmdd]` # full POStagged & lemmatized data, without metadata (> 3GB)
+    	* **input**: `AGT_preprocessed_[yyyymmdd].json` 
+    	* **output**: `AGT_lemmatized_[yyyymmdd].json` # full dataset with lemmatized sentences filtered by POStags (only NOUN, PROPN, ADJ, VERB)
+    	* **output** `AGT_tagged_[yyyymmdd]` # full POStagged & lemmatized data, without metadata (> 3GB)
     
 * `5_OVERVIEW.ipynb` 
 	* **description**: It produces various overview figures and tables
-    * **input**: `AGT_lemmatized_[yyyymmdd].json`
-    * **output**: various figures and tables
+    	* **input**: `AGT_lemmatized_[yyyymmdd].json`
+    	* **output**: various figures and tables
 
 The morphological analysis applied in `4_LEMMATIZATION_with-spacy.ipynb`has been implemented using spaCy and consists of (1) a **coarse-grained POS-tagging** and (2) a dictionary-based **lemmatization**.
 
@@ -90,11 +90,11 @@ The raw data are from two GitHub repositories:
 
 ### Software
 1. Python 3
-2. Jupyter Lab (Jupyter notebooks files)
+2. Jupyter Lab/Hub/Notebooks (Jupyter notebooks files)
 3. Sciencedata.dk web interface
 
 ### Registered account
-1. Google account - to work with metadata
+1. Google account (to work with metadata, not necessary)
 2. Github account (to extract the raw data straightforward from Github)
-3. Sciencedata.dk account (to work with preprocessed data to which point the script.
+3. Sciencedata.dk account (to work with preprocessed data to which point the script, not necessary).
  
