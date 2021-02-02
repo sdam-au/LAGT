@@ -87,6 +87,8 @@ The morphological analysis applied in `4_LEMMATIZATION_with-spacy.ipynb`has been
 'perseus_tags_correct%': 88.9405918229049,
 'perseus_lemmata_correct%': 87.15608764400271}
 ```
+(Detailed evaluation of the model still missing.)
+
 ---
 ### Data
 The raw data are from two GitHub repositories:
