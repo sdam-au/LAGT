@@ -81,7 +81,7 @@ The morphological analysis applied in `4_LEMMATIZATION_with-spacy.ipynb`has been
 (2) The lemmatizor assigns lemmata from Morpheus on the basis of the POSTags. When it does not find any coinciding wordform-lemma pair, it tries to do a series of transformations with the wordform, namely automatic rebreathing, checking all possible accentuations. When still not successful, it tries to look for other POStags (For details, see `scripts/lemmatization.py`). In this way the lemmatizer might correct the POStagger.
 
 **Model performance on two test data:**
-```json
+```python
 {'proiel_tags_correct%': 96.60123058892471,
 'proiel_lemmata_correct%': 95.51714034573689,
 'perseus_tags_correct%': 88.9405918229049,
