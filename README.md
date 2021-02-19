@@ -1,4 +1,4 @@
-https://zenodo.org/badge/DOI/10.5281/zenodo.4552601.svg
+![](https://zenodo.org/badge/DOI/10.5281/zenodo.4552601.svg)
 
 # LAGT: Lemmatized Ancient Greek Texts
 ---
