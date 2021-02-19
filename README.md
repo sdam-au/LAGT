@@ -1,5 +1,10 @@
+https://zenodo.org/badge/DOI/10.5281/zenodo.4552601.svg
+
 # LAGT: Lemmatized Ancient Greek Texts
 ---
+## Citation
+Vojtěch Kaše. (2021, February 19). sdam-au/LAGT v1.0.0 (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.4552601
+
 ## Purpose
 This repository serves for extraction, merging, cleaning and morphological analysis of publicly available ancient Greek texts accessible via two GitHub repositories:
 * [Perseus Digital Library](https://github.com/PerseusDL/canonical-greekLit)
