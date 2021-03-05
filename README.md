@@ -1,11 +1,16 @@
+![](https://zenodo.org/badge/DOI/10.5281/zenodo.4552601.svg)
+
 # LAGT: Lemmatized Ancient Greek Texts
 ---
+## Citation
+Vojtěch Kaše. (2021, February 19). sdam-au/LAGT v1.0.0 (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.4552601
+
 ## Purpose
 This repository serves for extraction, merging, cleaning and morphological analysis of publicly available ancient Greek texts accessible via two GitHub repositories:
 * [Perseus Digital Library](https://github.com/PerseusDL/canonical-greekLit)
 * [First 1000 Years of Greek](https://github.com/OpenGreekAndLatin/First1KGreek)
 
-At the same time, it serves for a development of a spaCy model for ancient Greek, consisting of a POStagger and a lemmatizer. This model can be used for other ancient Greek datasets. We have already used it to lemmatize a dataset of inscriptions ([here](https://github.com/sdam-au/PHI_ETL/scripts/1_4_py_LEMMATIZATION.ipynb](https://github.com/sdam-au/PHI_ETL/blob/master/scripts/1_4_py_LEMMATIZATION.ipynb)).
+At the same time, it serves for development of a spaCy model for ancient Greek, consisting of a POStagger and a lemmatizer. This model can be used for other ancient Greek datasets. We have already used it to lemmatize a dataset of inscriptions ([here](https://github.com/sdam-au/PHI_ETL/blob/master/scripts/1_4_py_LEMMATIZATION.ipynb)).
 
 * Latest version of the data: [AGT_lemmatized_20201211.json](https://sciencedata.dk/public/164bd4b21e23faeb39221fb2ad03f16a/AGT_lemmatized_20201211.json)
 * Latest version of the spaCy model: [spacy_grc_model_7.zip](https://sciencedata.dk/public/164bd4b21e23faeb39221fb2ad03f16a/spacy_grc_model_7.zip)
