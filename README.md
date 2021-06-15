@@ -12,7 +12,9 @@ This repository serves for extraction, merging, cleaning and morphological analy
 
 At the same time, it serves for development of a spaCy model for ancient Greek, consisting of a POStagger and a lemmatizer. This model can be used for other ancient Greek datasets. We have already used it to lemmatize a dataset of inscriptions ([here](https://github.com/sdam-au/PHI_ETL/blob/master/scripts/1_4_py_LEMMATIZATION.ipynb)).
 
-* Latest version of the data: [AGT_lemmatized_20201211.json](https://sciencedata.dk/public/164bd4b21e23faeb39221fb2ad03f16a/AGT_lemmatized_20201211.json)
+* Latest version of the dataset, in a form of DataFrame, serialized as a JSON file:
+	* dataset file URL: https://sciencedata.dk/public/76fe7eac289abf314cd8ad3a0487333e/LAGT_v1-0.json
+	* `sddk` command: `LAGT = sddk.read_file("https://sciencedata.dk/public/76fe7eac289abf314cd8ad3a0487333e/LAGT_v1-0.json", "df")`
 * Latest version of the spaCy model: [spacy_grc_model_7.zip](https://sciencedata.dk/public/164bd4b21e23faeb39221fb2ad03f16a/spacy_grc_model_7.zip)
 
 ---
