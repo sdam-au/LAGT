@@ -1,34 +1,26 @@
-![](https://zenodo.org/badge/DOI/10.5281/zenodo.4552601.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10035517.svg)](https://doi.org/10.5281/zenodo.10035517)
 
-# LAGT: Lemmatized Ancient Greek Texts
+LAGT: Lemmatized Ancient Greek Texts
 ---
 ## Citation
-Vojtěch Kaše. (2021, February 19). sdam-au/LAGT v1.0.0 (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.4552601
-
+Vojtěch Kaše. (2023). LAGT (v2.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10035517
 ## Purpose
+
+
 This repository serves for extraction, merging, cleaning and morphological analysis of publicly available ancient Greek texts accessible via two GitHub repositories:
 * [Perseus Digital Library](https://github.com/PerseusDL/canonical-greekLit)
 * [First 1000 Years of Greek](https://github.com/OpenGreekAndLatin/First1KGreek)
 
-At the same time, it serves for development of a spaCy model for ancient Greek, consisting of a POStagger and a lemmatizer. This model can be used for other ancient Greek datasets. We have already used it to lemmatize a dataset of inscriptions ([here](https://github.com/sdam-au/PHI_ETL/blob/master/scripts/1_4_py_LEMMATIZATION.ipynb)).
-
-* Latest version of the dataset, in a form of DataFrame, serialized as a JSON file:
-	* dataset file URL: https://sciencedata.dk/public/76fe7eac289abf314cd8ad3a0487333e/LAGT_v1-0.json
-	* `sddk` command: `LAGT = sddk.read_file("https://sciencedata.dk/public/76fe7eac289abf314cd8ad3a0487333e/LAGT_v1-0.json", "df")`
-* Latest version of the spaCy model: [spacy_grc_model_7.zip](https://sciencedata.dk/public/164bd4b21e23faeb39221fb2ad03f16a/spacy_grc_model_7.zip)
+Concerning lemmatization, the dataset contains lemmatized sentences in a form of list-of-lists, with sublist elements representing individual lemmata. It contains only nouns, proper names, verbs and adjectives. Whenever available, the lemmata are based on the GLAUx corpus: https://github.com/perseids-publications/glaux-trees.
 
 ---
 ## Authors
-* Vojtěch Kaše [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)]([0000-0002-6601-1605](https://www.google.com/url?q=http://orcid.org/0000-0002-6601-1605&sa=D&ust=1588773325679000)), SDAM project, vojtech.kase@gmail.com
+* Vojtěch Kaše [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)]([0000-0002-6601-1605](https://www.google.com/url?q=http://orcid.org/0000-0002-6601-1605&sa=D&ust=1588773325679000)), vojtech.kase@gmail.com
 
 ## License
 CC-BY-SA 4.0, see attached License.md
 
-## DOI
-[Here will be DOI or some other identifier once we have it]
 
-### References
-[Here will go related articles or other sources we will publish/create]
 
 ---
 
