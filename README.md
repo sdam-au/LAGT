@@ -23,8 +23,13 @@ CC-BY-SA 4.0, see attached License.md
 
 
 ---
+## Description v2.0
 
-## Description
+The lemmata for individual documents come from several sources. See the column "lemmata_source":
+* "morphgnt": Lemmata for Greek New Testament (tlg0031) according to SBLGNT, as available from here: https://github.com/morphgnt/sblgnt
+* "lxxmorph" : Lemmata for the Septuaging (tlg0527) according to the CCAT Gopher version as available from here: https://github.com/nathans/lxxmorph-unicode/tree/master
+
+## Description v2.0
 
 The textual data consist of 1,457 ancient Greek works, 2,891,346 sentences and 31,248,866
 words (1,255 documents, 1,783,275 sentences, 21,086074 words from the period from 8th c. BCE to 4 c. CE). Using [TLG metadata for dating](https://raw.githubusercontent.com/cltk/cltk/master/cltk/corpus/greek/tlg/author_date.py), we were able to get some sort of dating for 1,374 documents. Next to it, we were able to classify 876 as either "christian" or "pagan" provenience. 
