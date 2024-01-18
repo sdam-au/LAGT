@@ -11,11 +11,17 @@ This repository serves for extraction, merging, cleaning and morphological analy
 * [Perseus Digital Library](https://github.com/PerseusDL/canonical-greekLit)
 * [First 1000 Years of Greek](https://github.com/OpenGreekAndLatin/First1KGreek)
 
-Concerning lemmatization, the dataset contains lemmatized sentences in a form of list-of-lists, with sublist elements representing individual lemmata. It contains only nouns, proper names, verbs and adjectives. Whenever available, the lemmata are based on the GLAUx corpus: https://github.com/perseids-publications/glaux-trees.
+Concerning lemmatization, the dataset contains lemmatized sentences in a form of list-of-lists, 
+with sublist elements representing individual lemmata. 
+It contains only nouns, proper names, verbs and adjectives. 
+Wherever available, the lemmata are based on avaialable Treebank data, such as the GLAUx corpus: https://github.com/perseids-publications/glaux-trees. 
+Where not, the GreCy model for spaCy is employed for automatic annotation.
 
 ---
 ## Authors
-* Vojtěch Kaše [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)]([0000-0002-6601-1605](https://www.google.com/url?q=http://orcid.org/0000-0002-6601-1605&sa=D&ust=1588773325679000)), vojtech.kase@gmail.com
+* Vojtěch Kaše [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)]([0000-0002-6601-1605](https://www.google.com/url?q=http://orcid.org/0000-0002-6601-1605&sa=D&ust=1588773325679000)), vojtech.kase@gmail.com 
+
+With contributions from many collaborators and colleagues: Tomáš Glomb, Vojtěch Linka, Viktor Zavřel, Nina Nikki, Zdeňka Špiclová etc.
 
 ## License
 CC-BY-SA 4.0, see attached License.md
@@ -25,9 +31,22 @@ CC-BY-SA 4.0, see attached License.md
 ---
 ## Description v2.0
 
-The lemmata for individual documents come from several sources. See the column "lemmata_source":
-* "morphgnt": Lemmata for Greek New Testament (tlg0031) according to SBLGNT, as available from here: https://github.com/morphgnt/sblgnt
-* "lxxmorph" : Lemmata for the Septuaging (tlg0527) according to the CCAT Gopher version as available from here: https://github.com/nathans/lxxmorph-unicode/tree/master
+The lemmata for individual documents come from several sources. See the column `"lemmata_source":`
+* "morphgnt": Manually annotated lemmata for the Greek New Testament (tlg0031) according to SBLGNT, as available from here: https://github.com/morphgnt/sblgnt
+* "lxxmorph" : Manually annotated lemmata for the Septuaging (tlg0527) according to the CCAT Gopher version, as available from here: https://github.com/nathans/lxxmorph-unicode/tree/master
+* "agdt": lemmata extracted from a manually annotated selection of ancient Greek texts, extracted from http://perseusdl.github.io/treebank_data/ (also available [here](https://github.com/PerseusDL/treebank_data/tree/master/v2.1/Greek/texts))
+* "gorman": lemmata from a manually annotated selection of ancient Grek texts, extracted from https://github.com/perseids-publications/gorman-trees/tree/master/public/xml (see [^1])
+* "pedalion": lemmata from a manually annotated selection of ancient Grek texts, extracted from https://github.com/perseids-publications/pedalion-trees/tree/master/public/xml
+* "glaux": lemmata from a large portion of *automatically* annotated ancient Greek texts, extracted from https://github.com/perseids-publications/glaux-trees/tree/master/public/xml (see [^2])
+
+
+
+
+[^1]: Gorman, V. B. (2020). Dependency Treebanks of Ancient Greek Prose. Journal of Open Humanities Data, 6(1), 1. https://doi.org/10.5334/johd.13
+[^2]: Keersmaekers, A. (2021). The GLAUx corpus: Methodological issues in designing a long-term, diverse, multi-layered corpus of Ancient Greek. Proceedings of the 2nd International Workshop on Computational Approaches to Historical Language Change 2021, 39–50. https://doi.org/10.18653/v1/2021.lchange-1.6
+
+
+
 
 ## Description v2.0
 
