@@ -38,8 +38,7 @@ The lemmata for individual documents come from several sources. See the column `
 * "gorman": lemmata from a manually annotated selection of ancient Grek texts, extracted from https://github.com/perseids-publications/gorman-trees/tree/master/public/xml (see [^1])
 * "pedalion": lemmata from a manually annotated selection of ancient Grek texts, extracted from https://github.com/perseids-publications/pedalion-trees/tree/master/public/xml
 * "glaux": lemmata from a large portion of *automatically* annotated ancient Greek texts, extracted from https://github.com/perseids-publications/glaux-trees/tree/master/public/xml (see [^2])
-
-
+* "grecy": lemmata obtain from *automatically* annotated ancient Greek texts by means of the `grecy` model for `spaCy`.
 
 
 [^1]: Gorman, V. B. (2020). Dependency Treebanks of Ancient Greek Prose. Journal of Open Humanities Data, 6(1), 1. https://doi.org/10.5334/johd.13
