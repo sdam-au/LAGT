@@ -1,26 +1,26 @@
-title,doc_id,author_id,raw_date,genre,author
-"The Letter of the Churches of Vienne and Lyons",tlg1352.tlg001,tlg1352,A.D. 2,"Hagiogr.",
-"Martyrium Pionii presbyteri et sodalium",tlg2005.tlg001,tlg2005,A.D. 4,"Hagiogr.",
-"Martyrium Agapae, Irenae, Chionae et sodalium",tlg2011.tlg001,tlg2011,A.D. 4,"Hagiogr.",
-"Testamentum xl martyrum",tlg2015.tlg001,tlg2015,post A.D. 4,"Hagiogr.",
-"Passio sancti Sabae Gothi (sub auctore Athanarico)",tlg5451.tlg001,tlg5451,A.D. 4,"Hagiogr.",
-"Martyrium Potamiaenae et Basilidis",tlg2007.tlg001,tlg2007,post A.D. 3,"Hagiogr.",
-"Martyrium Dasii",tlg2010.tlg001,tlg2010,post A.D. 4,"Hagiogr.",
-"Martyrium Cononis",tlg2008.tlg001,tlg2008,post A.D. 4,"Hagiogr.",
-"Acta Justini et septem sodalium (recensio B)",tlg0384.tlg002,tlg0384,A.D. 2/3,"Hagiogr.",
-"Acta Eupli - RECENSIO GRAECA",tlg2012.tlg001,tlg2012,post A.D. 4,"Hagiogr.",
-"Martyrium sanctorum Carpi, Papyli et Agathonicae",tlg0390.tlg001,tlg0390,A.D. 2,"Hagiogr.",
-"Acta et martyrium Apollonii",tlg0304.tlg001,tlg0304,A.D. 2/4,"Hagiogr.",
-"Acts of the Scillitan Martyrs",tlg0391.tlg001,tlg0391,A.D. 2-3,"Hagiogr.",
-"Acts of Paul and Thecla",tlg0388.tlg004,tlg0388,A.D. 2,"Apocryph., Hagiogr.",
-"Martyrdom of Peter",tlg0389.tlg001,tlg0389,A.D. 2,"Apocryph., Hagiogr.",
-"Martyrdom of Paul",tlg0388.tlg002,tlg0388,A.D. 2,"Apocryph., Hagiogr.",
-"Martyrium prius Andreae (ACTA ANDREAE)",tlg3150.tlg002,tlg3150,A.D. 2,"Acta, Hagiogr.",
-"De sancto Theodoro",tlg2017.tlg065,tlg2017,A.D. 4,"Encom., Hagiogr.",Gregorius Nyssenus
-"In Gordium martyrem",tlg2040.tlg034,tlg2040,A.D. 4,"Encom., Hagiogr., Homilet.",Basilius Caesariensis
-"In quadraginta martyres Sebastenses",tlg2040.tlg035,tlg2040,A.D. 4,"Encom., Hagiogr., Homilet.",Basilius Caesariensis
-"De sancto hieromartyre Babyla",tlg2062.tlg041,tlg2062,A.D. 4-5,"Encom., Hagiogr., Homilet.",Joannes Chrysostomus
-"De sancta Pelagia virgine et martyre",tlg2062.tlg043,tlg2062,A.D. 4-5,"Encom., Hagiogr., Homilet.",Joannes Chrysostomus
-"De sanctis martyribus",tlg2062.tlg050,tlg2062,A.D. 4-5,"Encom., Hagiogr., Homilet.",Joannes Chrysostomus
-"In sanctum Julianum martyrem",tlg2062.tlg511,tlg2062,A.D. 4-5,"Encom., Hagiogr.",Joannes Chrysostomus
-"De mystica theologia",tlg2798.tlg005,tlg2798,A.D. 5-6,"Theol.",Pseudo-Dionysius Areopagita
+title,doc_id,author_id,raw_date,not_before,not_after,genre,author
+"The Letter of the Churches of Vienne and Lyons",tlg1352.tlg001,tlg1352,A.D. 2,101,200,"Hagiogr.",
+"Martyrium Pionii presbyteri et sodalium",tlg2005.tlg001,tlg2005,A.D. 4,301,400,"Hagiogr.",
+"Martyrium Agapae, Irenae, Chionae et sodalium",tlg2011.tlg001,tlg2011,A.D. 4,301,400,"Hagiogr.",
+"Testamentum xl martyrum",tlg2015.tlg001,tlg2015,post A.D. 4,401,,"Hagiogr.",
+"Passio sancti Sabae Gothi (sub auctore Athanarico)",tlg5451.tlg001,tlg5451,A.D. 4,301,400,"Hagiogr.",
+"Martyrium Potamiaenae et Basilidis",tlg2007.tlg001,tlg2007,post A.D. 3,301,,"Hagiogr.",
+"Martyrium Dasii",tlg2010.tlg001,tlg2010,post A.D. 4,401,,"Hagiogr.",
+"Martyrium Cononis",tlg2008.tlg001,tlg2008,post A.D. 4,401,,"Hagiogr.",
+"Acta Justini et septem sodalium (recensio B)",tlg0384.tlg002,tlg0384,A.D. 2/3,101,300,"Hagiogr.",
+"Acta Eupli - RECENSIO GRAECA",tlg2012.tlg001,tlg2012,post A.D. 4,401,,"Hagiogr.",
+"Martyrium sanctorum Carpi, Papyli et Agathonicae",tlg0390.tlg001,tlg0390,A.D. 2,101,200,"Hagiogr.",
+"Acta et martyrium Apollonii",tlg0304.tlg001,tlg0304,A.D. 2/4,101,400,"Hagiogr.",
+"Acts of the Scillitan Martyrs",tlg0391.tlg001,tlg0391,A.D. 2-3,101,300,"Hagiogr.",
+"Acts of Paul and Thecla",tlg0388.tlg004,tlg0388,A.D. 2,101,200,"Apocryph., Hagiogr.",
+"Martyrdom of Peter",tlg0389.tlg001,tlg0389,A.D. 2,101,200,"Apocryph., Hagiogr.",
+"Martyrdom of Paul",tlg0388.tlg002,tlg0388,A.D. 2,101,200,"Apocryph., Hagiogr.",
+"Martyrium prius Andreae (ACTA ANDREAE)",tlg3150.tlg002,tlg3150,A.D. 2,101,200,"Acta, Hagiogr.",
+"De sancto Theodoro",tlg2017.tlg065,tlg2017,A.D. 4,301,400,"Encom., Hagiogr.",Gregorius Nyssenus
+"In Gordium martyrem",tlg2040.tlg034,tlg2040,A.D. 4,301,400,"Encom., Hagiogr., Homilet.",Basilius Caesariensis
+"In quadraginta martyres Sebastenses",tlg2040.tlg035,tlg2040,A.D. 4,301,400,"Encom., Hagiogr., Homilet.",Basilius Caesariensis
+"De sancto hieromartyre Babyla",tlg2062.tlg041,tlg2062,A.D. 4-5,301,500,"Encom., Hagiogr., Homilet.",Joannes Chrysostomus
+"De sancta Pelagia virgine et martyre",tlg2062.tlg043,tlg2062,A.D. 4-5,301,500,"Encom., Hagiogr., Homilet.",Joannes Chrysostomus
+"De sanctis martyribus",tlg2062.tlg050,tlg2062,A.D. 4-5,301,500,"Encom., Hagiogr., Homilet.",Joannes Chrysostomus
+"In sanctum Julianum martyrem",tlg2062.tlg511,tlg2062,A.D. 4-5,301,500,"Encom., Hagiogr.",Joannes Chrysostomus
+"De mystica theologia",tlg2798.tlg005,tlg2798,A.D. 5-6,401,600,"Theol.",Pseudo-Dionysius Areopagita
