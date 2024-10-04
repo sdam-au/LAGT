@@ -1,0 +1,16 @@
+author_id,"ID code of individual author or author group, based on TLG, wherever available."
+doc_id,"ID code of individual work by an author or author group, based on TLG, wherever available."
+filename,Name of the source file raw text come from (available on for works which are not from GLAUx.)
+author,Conventional name of the author.
+title,Conventional name of the work.
+sentences,"Sentences of ""raw"" Greek texts, available as a python list object. Sentence divisions based either on GLAUx (where available) or on the GreCy model's sentence tokenizer."
+lemmatized_sentences,"Lemmatized sentences of the Greek texts, available as a list of lists. Contains only lemmata of words tagged as nouns, verbs, adjectives and proper names."
+source,"Source corpus of the raw text: ""glaux"" (n=1696), ""1Kgr"" (n=218), ""perseus"" (n=24), ""exprecce"" (n=20)"
+lemmata_source,"Source of the lemmatized text, either ""glaux"" corpus (n=1698) or ""grecy"" spaCy pipeline (n=260). "
+not_before,"""post quem"" year, i.e. the earliest possible date of ""publication"", usually beginning of a century."
+not_after,"""ante quem"" year, i.e. latest earliest possible date of ""publication"", usually end of a century."
+tlg_epithet,Epithet of individual authors based on TLG. List of values.
+genre,Manually coded genre. Available for a subset of texts. List of values.
+provenience,"Cultural/religious provenience, either ""pagan"" (n=1585), ""christian"" (n=270), or ""jewish"" (n=99). Manually annotated by the authors of LAGT. "
+wordcount,Number of words in the raw text.
+lemmatacount,"Number of lemmata (filtered - only nouns, verbs, adjectives, and proper names). "

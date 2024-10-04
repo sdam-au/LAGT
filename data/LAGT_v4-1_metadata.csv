@@ -246,7 +246,7 @@ tlg0087,tlg0087.tlg031,tlg0087.tlg031.1st1K-grc1.xml,Herodianus,Προτάσει
 tlg0087,tlg0087.tlg032,tlg0087.tlg032.1st1K-grc1.xml,Herodianus,Εἰς τὴν Ἀπολλωνίου εἰσαγωγήν,glaux1,glaux1,101.0,200.0,['Grammatici' 'Rhetorici'],[],pagan,72,27
 tlg0087,tlg0087.tlg033,tlg0087.tlg033.1st1K-grc1.xml,Herodianus,Περὶ μονήρους λέξεως,glaux1,glaux1,101.0,200.0,['Grammatici' 'Rhetorici'],[],pagan,19110,7131
 tlg0088,tlg0088.tlg001,tlg0088.tlg001.1st1K-grc1.xml,Aristoxenus,Elementa Harmonica,glaux1,glaux1,-400.0,-301.0,['Musici'],[],pagan,21611,7828
-tlg0090,tlg0090.tlg001,tlg0090.tlg001.opp-grc9.xml,Agathemerus,Geographiae Informatio,glaux1,glaux1,0.0,1.0,['Geographi'],[],pagan,2595,1070
+tlg0090,tlg0090.tlg001,tlg0090.tlg001.opp-grc9.xml,Agathemerus,Geographiae Informatio,glaux1,glaux1,201.0,300.0,['Geographi'],[],pagan,2595,1070
 tlg0093,tlg0093.ogl001,tlg0093.ogl001.1st1K-grc1.xml,Theophrastus,Concerning Odours,glaux1,glaux1,-400.0,-201.0,['Philosophici/-ae'],[],pagan,6608,2372
 tlg0093,tlg0093.ogl002,tlg0093.ogl002.1st1K-grc1.xml,Theophrastus,Enquiry into Plants,glaux1,glaux1,-400.0,-201.0,['Philosophici/-ae'],[],pagan,4672,2052
 tlg0093,tlg0093.tlg001,tlg0093.tlg001.1st1K-grc1.xml,Theophrastus,Enquiry into Plants,glaux1,glaux1,-400.0,-201.0,['Philosophici/-ae'],[],pagan,92141,33794
@@ -459,7 +459,7 @@ tlg0629,tlg0629.tlg001,tlg0629.tlg001.1st1K-grc1.xml,Periander,Epistulae,glaux1,
 tlg0632,tlg0632.tlg002,tlg0632.tlg002.1st1K-grc1.xml,Pythagoras,Epistulae,glaux1,glaux1,-600.0,-401.0,['Philosophici/-ae'],[],pagan,376,141
 tlg0633,tlg0633.tlg001,tlg0633.tlg001.1st1K-grc1.xml,Lysis,Epistula ad Hipparchum,glaux1,glaux1,-400.0,-101.0,['Philosophici/-ae'],[],pagan,600,271
 tlg0634,tlg0634.tlg001,tlg0634.tlg001.1st1K-grc1.xml,Xenocrates of Chalcedon,Fragmenta,glaux1,glaux1,-400.0,-301.0,['Philosophici/-ae'],[],pagan,5368,2079
-tlg0639,tlg0639.tlg001,tlg0639.tlg001.1st1K-grc1.xml,Epistula,Menecrates Medicus,glaux1,glaux1,-400.0,-301.0,['Medici'],[],,67,26
+tlg0639,tlg0639.tlg001,tlg0639.tlg001.1st1K-grc1.xml,Epistula,Menecrates Medicus,glaux1,glaux1,-400.0,-301.0,['Medici'],[],pagan,67,26
 tlg0640,tlg0640.tlg001,tlg0640.tlg001.1st1K-grc1.xml,Alciphron,Epistulae,glaux1,glaux1,101.0,300.0,['Rhetorici' 'Sophistae'],[],pagan,43693,15517
 tlg0643,tlg0643.opp003,tlg0643.opp003.1st1K-grc1.xml,Anonymus Londinensis,Iatrica Fragmenta Reliqua,glaux1,glaux1,1.0,100.0,['Medici'],[],pagan,371,116
 tlg0643,tlg0643.tlg001,tlg0643.tlg001.1st1K-grc2.xml,Hermann Diels,Sigla to Anonymus Londinensis Iatrica,glaux1,glaux1,1.0,100.0,['Medici'],[],pagan,57,22
@@ -477,7 +477,7 @@ tlg0657,tlg0657.tlg001,tlg0657.tlg001.1st1K-grc1.xml,Crateuas,Fragmenta,glaux1,g
 tlg0658,tlg0658.tlg001,tlg0658.tlg001.perseus-grc1.xml,Heliodorus of Emesa,Aethiopica,glaux1,glaux1,201.0,300.0,['Scriptores Erotici'],[],pagan,90138,36129
 tlg0666,tlg0666.tlg001,tlg0666.tlg001.1st1K-grc1.xml,Adrianus,Declamatio,glaux1,glaux1,101.0,200.0,['Rhetorici' 'Sophistae'],[],pagan,293,129
 tlg0671,tlg0671.tlg001,tlg0671.tlg001.1st1K-grc1.xml,Philumenus,De venenatis animalibus eorumque remediis,glaux1,glaux1,101.0,200.0,['Medici'],[],pagan,10658,4606
-tlg0676,tlg0676.tlg001,tlg0676.tlg001.1st1K-grc1.xml,"Aglaias, Byzantius",Πρὸς τὰς ἀρχομένας ὑποχύσεις,glaux1,glaux1,-400.0,100.0,['Poetae Medici'],[],,214,104
+tlg0676,tlg0676.tlg001,tlg0676.tlg001.1st1K-grc1.xml,"Aglaias, Byzantius",Πρὸς τὰς ἀρχομένας ὑποχύσεις,glaux1,glaux1,-400.0,100.0,['Poetae Medici'],[],pagan,214,104
 tlg0693,tlg0693.tlg001,tlg0693.tlg001.1st1K-grc1.xml,Albinus,Διδασκαλικὸς τῶν Πλάτωνος δογμάτων,glaux1,glaux1,101.0,200.0,['Philosophici/-ae'],[],pagan,14908,5806
 tlg0693,tlg0693.tlg002,tlg0693.tlg002.1st1K-grc1.xml,Albinus,Εἰσαγογὴ εἰς τοὺς Πλάτωνος διαλόγους,glaux1,glaux1,101.0,200.0,['Philosophici/-ae'],[],pagan,1577,633
 tlg0708,tlg0708.tlg001,tlg0708.tlg001.1st1K-grc1.xml,Ammonius Grammaticus,περὶ ὁμοίων καὶ διαφόρων λέξεων,glaux1,glaux1,1.0,200.0,['Grammatici'],[],pagan,20826,8129
@@ -502,7 +502,7 @@ tlg0751,tlg0751.tlg034,tlg0751.tlg034.1st1K-grc1.xml,pseudo-Hippocrates,De septi
 tlg1118,tlg1118.tlg003,tlg1118.tlg003.1st1K-grc1.xml,Pseudo-Dioscorides,De lapidibus,glaux1,glaux1,101.0,,['Medici'],[],pagan,1278,645
 tlg1126,tlg1126.tlg003,tlg1126.tlg003.1st1K-grc1.xml,Anubion,Fragmenta,glaux1,glaux1,1.0,100.0,[],[],pagan,86,45
 tlg1131,tlg1131.tlg001,tlg1131.tlg001.1st1K-grc1.xml,Anonymus Ad Aviricium Marcellum Contra Cataphrygas,Ad Avircium Marcellum contra Cataphrygas,glaux1,glaux1,101.0,300.0,[],[],pagan,1304,518
-tlg1134,tlg1134.tlg001,tlg1134.tlg001.1st1K-grc1.xml,Anonymous Iamblichi,Fragmenta,glaux1,glaux1,-500.0,-401.0,['Philosophici/-ae'],[],,2163,808
+tlg1134,tlg1134.tlg001,tlg1134.tlg001.1st1K-grc1.xml,Anonymous Iamblichi,Fragmenta,glaux1,glaux1,-500.0,-401.0,['Philosophici/-ae'],[],pagan,2163,808
 tlg1146,tlg1146.tlg001,tlg1146.tlg001.1st1K-grc1.xml,Antipater Tarsensis,Testimonia et Fragmenta.,glaux1,glaux1,-200.0,-101.0,['Philosophici/-ae'],[],pagan,3907,1356
 tlg1147,tlg1147.tlg003,tlg1147.tlg003.1st1K-grc1.xml,Antiphon of Athens,Fragmenta,glaux1,glaux1,-500.0,-401.0,['Sophistae'],[],pagan,5040,1476
 tlg1181,tlg1181.tlg001,tlg1181.tlg001.1st1K-grc1.xml,Aristarchus of Samos,De magnitudinibus et distantiis solis et lunae,glaux1,glaux1,-400.0,-201.0,['Astronomici'],[],pagan,8236,3109
@@ -552,7 +552,7 @@ tlg1286,tlg1286.tlg016,tlg1286.tlg016.1st1K-grc1.xml,Anonymous,[ὅροι] Ἀσ
 tlg1286,tlg1286.tlg017,tlg1286.tlg017.1st1K-grc1.xml,Anonymous,Dialogus (sine titulo),glaux1,glaux1,101.0,400.0,[],[],pagan,175,58
 tlg1286,tlg1286.tlg018,tlg1286.tlg018.1st1K-grc1.xml,Anonymous,[περὶ τῆς ὑπὸ τοῦ πάθους τοῦ σώματος ἐμποδιζομένης ψυχῆς],glaux1,glaux1,101.0,400.0,[],[],pagan,1829,655
 tlg1286,tlg1286.tlg020,tlg1286.tlg020.1st1K-grc1.xml,Anonymous,Stobaei Hermetica,glaux1,glaux1,101.0,400.0,[],[],pagan,23651,8833
-tlg1287,tlg1287.tlg001,tlg1287.tlg001.1st1K-grc1.xml,Cranto,Fragmenta,glaux1,glaux1,-400.0,-201.0,['Philosophici/-ae'],[],,1847,739
+tlg1287,tlg1287.tlg001,tlg1287.tlg001.1st1K-grc1.xml,Cranto,Fragmenta,glaux1,glaux1,-400.0,-201.0,['Philosophici/-ae'],[],pagan,1847,739
 tlg1304,tlg1304.tlg002,tlg1304.tlg002.1st1K-grc1.xml,Democritus,Fragmenta,glaux1,glaux1,-500.0,-301.0,['Philosophici/-ae'],[],pagan,15793,5075
 tlg1309,tlg1309.tlg001,tlg1309.tlg001.1st1K-grc1.xml,Dialexeis,Fragmenta,glaux1,glaux1,-500.0,-301.0,[],[],pagan,4789,1644
 tlg1311,tlg1311.tlg001,tlg1311.tlg001.1st1K-grc1.xml,Anonymus,Didache XII Apostolorum,glaux1,glaux1,101.0,200.0,[],[],christian,2669,994
@@ -583,7 +583,7 @@ tlg1447,tlg1447.tlg001,tlg1447.tlg001.1st1K-grc1.xml,Irenaeus,Libros quinque adv
 tlg1447,tlg1447.tlg009,tlg1447.tlg009.1st1K-grc1.xml,"Irenaeus, Saint, Bishop of Lyon",Fragmenta Synodicae Epistulae,glaux1,glaux1,101.0,200.0,['Theologici'],[],christian,402,131
 tlg1463,tlg1463.tlg001,tlg1463.tlg001.1st1K-grc2.xml,Liber Enoch,Apocalypsis Enochi,glaux1,glaux1,-200.0,-1.0,[],[],jewish,11674,3579
 tlg1482,tlg1482.tlg001,tlg1482.tlg001.1st1K-grc1.xml,Cyranides,Cyranides,glaux1,glaux1,,-1.0,[],[],pagan,29657,13264
-tlg1484,tlg1484.tlg001,tlg1484.tlg001.1st1K-grc1.xml,Anonymous,Martyrium Polycarpi,glaux1,glaux1,201.0,,[],[],christian,3101,1273
+tlg1484,tlg1484.tlg001,tlg1484.tlg001.1st1K-grc1.xml,Anonymous,Martyrium Polycarpi,glaux1,glaux1,101.0,300.0,[],[],christian,3101,1273
 tlg1486,tlg1486.tlg001,tlg1486.tlg001.1st1K-grc1.xml,Matron of Pitana,Δει̑πνον Ἀττικόν,glaux1,glaux1,-400.0,-301.0,['Parodii'],[],pagan,4180,1444
 tlg1486,tlg1486.tlg002,tlg1486.tlg002.1st1K-grc1.xml,Matron of Pitana,Δει̑πνον Ἀττικόν,glaux1,glaux1,-400.0,-301.0,['Parodii'],[],pagan,583,215
 tlg1487,tlg1487.tlg001,tlg1487.tlg001.1st1K-grc1.xml,"Maximus, Astrologus",Περὶ καταρχῶν,glaux1,glaux1,101.0,400.0,['Astrologici'],[],pagan,4622,2495
@@ -619,7 +619,7 @@ tlg1705,tlg1705.tlg001,tlg1705.tlg001.1st1K-grc1.xml,Thales,Epistulae,glaux1,gla
 tlg1719,tlg1719.tlg001,tlg1719.tlg001.1st1K-grc1.xml,Theodosius of Bithynia,Sphaerica,glaux1,glaux1,-200.0,-1.0,['Astronomici' 'Mathematici'],[],pagan,31403,12400
 tlg1724,tlg1724.tlg001,tlg1724.tlg001.1st1K-grc1.xml,Theon Smyrnaeus,De utilitate mathematicae,glaux1,glaux1,101.0,200.0,['Philosophici/-ae'],[],pagan,43307,14921
 tlg1725,tlg1725.tlg001,tlg1725.tlg001.perseus-grc2.xml,Theophilus,Ad Autolycum,glaux1,glaux1,101.0,200.0,['Apologetici'],[],christian,25259,10345
-tlg1763,tlg1763.tlg001,tlg1763.tlg001.1st1K-grc1.xml,Tryphon II Grammaticus,Γρηγορίου τοῦ Κορινθίου περὶ τρόπων,glaux1,glaux1,-100.0,-1.0,['Grammatici'],[],,2798,1017
+tlg1763,tlg1763.tlg001,tlg1763.tlg001.1st1K-grc1.xml,Tryphon II Grammaticus,Γρηγορίου τοῦ Κορινθίου περὶ τρόπων,glaux1,glaux1,-100.0,-1.0,['Grammatici'],[],pagan,2798,1017
 tlg1764,tlg1764.tlg001,tlg1764.tlg001.1st1K-grc1.xml,Vettius Valens,Anthologiarum libri ix,glaux1,glaux1,101.0,200.0,['Astrologici'],[],pagan,124983,57153
 tlg1765,tlg1765.tlg003,tlg1765.tlg003.1st1K-grc1.xml,Vitae Aesopi,Vita Aesopi Pl vel Accursiana (sub auctore Maximo Planude) (recensio 1),glaux1,glaux1,101.0,200.0,[],[],pagan,14402,5245
 tlg1765,tlg1765.tlg004,tlg1765.tlg004.1st1K-grc1.xml,Vitae Aesopi,Vita Aesopi (fort. auctore Aphthonio),glaux1,glaux1,101.0,200.0,[],[],pagan,305,145
@@ -636,7 +636,7 @@ tlg1799,tlg1799.tlg014,tlg1799.tlg014.1st1K-grc1.xml,Euclid,Phaenomena (demonstr
 tlg1799,tlg1799.tlg015,tlg1799.tlg015.1st1K-grc2.xml,Euclid,Sectio canonis [Sp.],glaux1,glaux1,-300.0,-201.0,['Geometri'],[],pagan,2923,1228
 tlg1799,tlg1799.tlg016,tlg1799.tlg016.1st1K-grc1.xml,Euclid,Fragmenta,glaux1,glaux1,-300.0,-201.0,['Geometri'],[],pagan,12803,4065
 tlg1799,tlg1799.tlg017,tlg1799.tlg017.1st1K-grc1.xml,Euclid,Epigramma,glaux1,glaux1,-300.0,-201.0,['Geometri'],[],pagan,57,29
-tlg1803,tlg1803.tlg001,tlg1803.tlg001.1st1K-grc1.xml,Bruti Epistulae,Epistulae,glaux1,glaux1,0.0,1.0,[],[],,2165,861
+tlg1803,tlg1803.tlg001,tlg1803.tlg001.1st1K-grc1.xml,Bruti Epistulae,Epistulae,glaux1,glaux1,0.0,1.0,[],[],pagan,2165,861
 tlg2000,tlg2000.tlg001,tlg2000.tlg001.1st1K-grc1.xml,Plotinus,Enneades,glaux1,glaux1,201.0,300.0,['Philosophici/-ae'],[],pagan,255339,79247
 tlg2001,tlg2001.tlg038,tlg2001.tlg038.1st1K-grc1.xml,Themistius,Analyticorum Posteriorum Paraphrasis,glaux1,glaux1,301.0,400.0,['Philosophici/-ae' 'Rhetorici'],[],pagan,43720,13943
 tlg2001,tlg2001.tlg039,tlg2001.tlg039.1st1K-grc1.xml,Themistius,In Aristotelis Physica Paraphrasis,glaux1,glaux1,301.0,400.0,['Philosophici/-ae' 'Rhetorici'],[],pagan,128920,39972
@@ -1735,7 +1735,7 @@ tlg2042,tlg2042.tlg020,,Origenes,"Philocalia sive Ecloga de operibus Origenis a 
 tlg0009,tlg0009.tlg002,,Sappho,Epigrammata,glaux1,glaux1,-700.0,-501.0,,['Epigr.'],pagan,84,51
 tlg0255,tlg0255.tlg002,,Mimnermus Colophonius,Epigramma,glaux1,glaux1,-700.0,-601.0,,['Epigr.'],pagan,18,6
 tlg0268,tlg0268.tlg002,,Mesomedes,Epigrammata,glaux1,glaux1,101.0,200.0,,['Epigr.'],pagan,133,71
-tlg1666,tlg1666.tlg001,,Sextus,Sententiae Sexti,glaux1,glaux1,101.0,300.0,,['Gnom.'],"Unclear; originally pagan, then christian",4488,2212
+tlg1666,tlg1666.tlg001,,Sextus,Sententiae Sexti,glaux1,glaux1,101.0,300.0,,['Gnom.'],,4488,2212
 tlg2063,tlg2063.tlg005,,Gregorius Thaumaturgus,Epistula canonica,glaux1,glaux1,201.0,300.0,,['Epist.'],christian,1229,441
 tlg0007,tlg0007.tlg084,,Plutarchus,Aetia Romana et Graeca,glaux1,glaux1,1.0,200.0,,['Polyhist.'],pagan,22469,9785
 tlg0267,tlg0267.tlg003,,Xenophanes,Epigramma,glaux1,glaux1,-600.0,-401.0,,['Epigr.'],pagan,34,16
@@ -1814,7 +1814,7 @@ tlg0244,tlg0244.tlg001,,Cleobulina Scriptor Aenigmatum,Fragmenta,glaux1,glaux1,-
 tlg2679,tlg2679.tlg001,,,Testamentum Salomonis (recensiones A et B) (mss. HILPQ),glaux1,glaux1,201.0,300.0,,[],christian,9431,3920
 tlg1607,tlg1607.tlg002,,Phoronis,Phoronis (Fragmenta),glaux1,glaux1,-700.0,-501.0,,['Epic.'],pagan,94,63
 tlg0006,tlg0006.tlg031,,Euripides,Epigrammata,glaux1,glaux1,-500.0,-401.0,,['Epigr.'],pagan,30,12
-tlg0591,tlg0591.tlg002,,Antisthenes,Declamationes (fragmenta) Fragment 15,glaux1,glaux1,-500.0,-301.0,,['Rhet.'],pagan,1088,366
+tlg0591,tlg0591.tlg001,,Antisthenes,Declamationes (fragmenta) (Fragment 15),glaux1,glaux1,-500.0,-301.0,,['Rhet.'],pagan,1088,366
 tlg0020,tlg0020.tlg004,,Hesiodus,Fragmenta,glaux1,glaux1,-800.0,-601.0,,['Epic.'],pagan,9473,4550
 tlg0209,tlg0209.tlg001,,Seleucus Lyricus,Fragmenta,glaux1,glaux1,-200.0,-101.0,,[],pagan,21,8
 tlg0227,tlg0227.tlg001,,Anonymi Curetum Hymnus,Hymnus Curetum,glaux1,glaux1,-400.0,-301.0,,[],pagan,261,151
@@ -1838,7 +1838,7 @@ tlg2042,tlg2042.tlg059,,Origenes,Fragmenta ex commentariis in Proverbia,glaux1,g
 tlg0199,tlg0199.tlg009,,Bacchylides,Epigrammata,glaux1,glaux1,-500.0,-401.0,,[],pagan,51,32
 tlg0245,tlg0245.tlg001,,Demodocus Lerius,Fragmenta,glaux1,glaux1,-600.0,-501.0,,[],pagan,132,48
 tlg0527,tlg0527.tlg022,,Septuaginta,Tobias (Cod. Sinaiticus),glaux1,glaux1,-300.0,-101.0,,[],jewish,8208,3202
-tlg1157,tlg1157.tlg001,,,Apocalypsis Esdrae,glaux1,glaux1,1.0,200.0,,[],,3138,1248
+tlg1157,tlg1157.tlg003,,,Apocalypsis Esdrae,glaux1,glaux1,1.0,200.0,,[],christian,3138,1248
 tlg0391,tlg0391.tlg001,,,ACTA SCILLITANORUM MARTYRUM,glaux1,glaux1,101.0,300.0,,[],christian,763,337
 tlg0267,tlg0267.tlg002,,Xenophanes,Fragmenta (Lyrica),glaux1,glaux1,-600.0,-401.0,,[],pagan,434,203
 tlg0527,tlg0527.tlg030,,Septuaginta,Ecclesiastes,glaux1,glaux1,-300.0,-101.0,,[],jewish,5350,2040
@@ -1847,15 +1847,15 @@ tlg0541,tlg0541.tlg044,,Menander of Athens,Epigrammata,glaux1,glaux1,-400.0,-201
 tlg0141,tlg0141.tlg002,,Athenaeus Epigr.,Epigrammata,glaux1,glaux1,101.0,300.0,,[],pagan,45,24
 tlg0568,tlg0568.tlg001,,Antigonus Paradox,Historiarum mirabilium collectio,glaux1,glaux1,-300.0,-201.0,,[],pagan,7696,3094
 tlg2042,tlg2042.tlg033,,Origenes,Epistula ad Gregorium Thaumaturgum,glaux1,glaux1,101.0,300.0,,['Epist.'],christian,961,397
-tlg1765,tlg1765.tlg006,,,VITAE AESOPI Vita G (e cod. 397 Bibliothecae Pierponti Morgan),glaux1,glaux1,,,,[],,21129,8630
+tlg1765,tlg1765.tlg006,,,VITA AESOPI Vita G (e cod. 397 Bibliothecae Pierponti Morgan),glaux1,glaux1,,,,[],pagan,21129,8630
 tlg0174,tlg0174.tlg001,,Diotimus Adramyttenus,Epigrammata,glaux1,glaux1,-300.0,-201.0,,[],pagan,302,152
 tlg0242,tlg0242.tlg003,,Asius Samius,Fragmenta Epica,glaux1,glaux1,-700.0,-501.0,,[],pagan,100,61
-tlg1153,tlg1153.tlg001,,,APOCALYPSIS ADAM (Νυχθήμερον),glaux1,glaux1,,,,[],,534,232
+tlg1153,tlg1153.tlg001,,(fort. auctore Apollonio Tyanensi),APOCALYPSIS ADAM (Νυχθήμερον),glaux1,glaux1,1.0,100.0,,"['Apocalyp.', 'Apocryph.']",,534,232
 tlg1813,tlg1813.tlg001,,Anonymus de Plantis Aegyptiis,Fragmentum (P. Oxy. 15.1796),glaux1,glaux1,101.0,200.0,,[],pagan,152,90
 tlg0365,tlg0365.tlg001,,Apollodorus Lyricus,Fragmenta,glaux1,glaux1,-600.0,-501.0,,[],pagan,9,5
-tlg1451,tlg1451.tlg003,,,JOSEPHUS ET ASENETH Confessio et precatio Aseneth,glaux1,glaux1,101.0,200.0,,[],,14762,5847
+tlg1451,tlg1451.tlg003,,,JOSEPHUS ET ASENETH Confessio et precatio Aseneth,glaux1,glaux1,101.0,200.0,,"['Hagiogr.', 'Narr. Fict.', 'Pseudepigr.']",,14762,5847
 tlg0288,tlg0288.tlg001,,Pisander Camirensis,Heraclea (Fragmenta),glaux1,glaux1,-700.0,-501.0,,[],pagan,33,17
-tlg1804,tlg1804.tlg003,,Ninus ,Fragmenta A-B,glaux1,glaux1,-100.0,-1.0,,[],pagan,1356,532
+tlg1804,tlg1804.tlg003,,Ninus ,Fragmenta A-B  (P. Berol. 6926) ,glaux1,glaux1,-100.0,-1.0,,['Narr. Fict.'],pagan,1356,532
 tlg1637,tlg1637.tlg001,,,Protoevangelium Jacobi,glaux1,glaux1,101.0,200.0,,[],christian,4787,1968
 tlg1445,tlg1445.tlg001,,Iliu Persis,Iliu persis (fragmenta),glaux1,glaux1,-800.0,-501.0,,[],pagan,97,53
 tlg1296,tlg1296.tlg001,,Cypria,Cypria (fragmenta),glaux1,glaux1,-800.0,-501.0,,[],pagan,420,227
@@ -1874,7 +1874,7 @@ tlg0288,tlg0288.tlg003,,Pisander Camirensis,Epigramma,glaux1,glaux1,-700.0,-501.
 tlg0631,tlg0631.tlg002,,Pittacus Mytilenensis,Epigramma,glaux1,glaux1,-700.0,-501.0,,[],pagan,9,4
 tlg0487,tlg0487.tlg008,,Philemon,Epigrammata,glaux1,glaux1,-400.0,-201.0,,[],pagan,21,9
 tlg0298,tlg0298.tlg001,,Eumelus Corinthius,Fragmentum,glaux1,glaux1,-800.0,-601.0,,[],pagan,14,8
-tlg0593,tlg0593.tlg003,,Gorgias,Fragmenta,glaux1,glaux1,-500.0,-301.0,,[],pagan,2987,1078
+tlg0593,tlg0593.tlg003,,Gorgias,Fragmenta (Fragment 11a),glaux1,glaux1,-500.0,-301.0,,['Test.'],pagan,2987,1078
 tlg1703,tlg1703.tlg001,,Teucer Astrol,De duodecim signis (Rhetorii Aegyptii excerpta),glaux1,glaux1,1.0,100.0,,[],pagan,6584,2719
 tlg0301,tlg0301.tlg001,,Thespis Tragicus,Fragmenta,glaux1,glaux1,-600.0,-501.0,,[],pagan,75,45
 tlg0085,tlg0085.tlg010,,Aeschylus,Epigrammata,glaux1,glaux1,-600.0,-401.0,,[],pagan,49,28
@@ -1895,9 +1895,9 @@ tlg1274,tlg1274.tlg002,,Cleobulus Lindius,Epigrammata,glaux1,glaux1,-700.0,-501.
 tlg2679,tlg2679.tlg002,,,Testamentum Salomonis (recensiones A et B) (mss. HIPQ),glaux1,glaux1,201.0,300.0,,[],christian,87,38
 tlg0658,tlg0658.tlg002,,Heliodorus,Epigrammata,glaux1,glaux1,201.0,300.0,,[],pagan,103,61
 tlg1306,tlg1306.tlg001,,Bolus Mendesicus,Περὶ συμπαθειῶν καὶ ἀντιπαθειῶν (sub nomine Democriti),glaux1,glaux1,-300.0,-201.0,,[],pagan,884,487
-tlg1386,tlg1386.tlg001,,Pseudo-Callisthenes,HISTORIA ALEXANDRI MAGNI Recensio α sive Recensio vetusta,glaux1,glaux1,201.0,,,[],pagan,39106,17137
+tlg1386,tlg1386.tlg001,,Pseudo-Callisthenes,HISTORIA ALEXANDRI MAGNI Recensio α sive Recensio vetusta,glaux1,glaux1,201.0,400.0,,['Narr. Fict.'],pagan,39106,17137
 tlg4150,tlg4150.tlg001,,Anacreontea,Anacreontea,glaux1,glaux1,1.0,600.0,,[],pagan,2584,1166
-tlg2243,tlg2243.tlg001,,,Apocalypsis Sedrach,glaux1,glaux1,101.0,,,[],christian,2770,1111
+tlg2243,tlg2243.tlg001,,,Apocalypsis Sedrach,glaux1,glaux1,201.0,400.0,,"['Apocalyp.', 'Pseudepigr.']",christian,2770,1111
 tlg1405,tlg1405.tlg001,,Heraclides Criticus,Descriptio Graeciae,glaux1,glaux1,-300.0,-201.0,,[],pagan,3221,1349
 tlg1391,tlg1391.tlg001,,Hegemon Epigrammaticus,Epigrammata,glaux1,glaux1,-300.0,-201.0,,[],pagan,31,16
 tlg0261,tlg0261.tlg003,,Simonides,Epigrammata,glaux1,glaux1,-600.0,-401.0,,[],pagan,1914,1047
