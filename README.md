@@ -19,8 +19,11 @@ Main tabular dataset, containing all metadata and also lemmatized filtered sente
 Morphological data for each document within the corpus with one JSON file per document. Each file is represented as a list of sentences, and each sentence is accompanied by a simplified morphological annotation, containing token, lemma, simplified postag and a positional index of the token. The directory with these files has to be downloaded and unzipped, e.g. in "data/large_files/ subdirectory of a repository or so.
 The tabular dataset might be loaded directly into a Python environment as a dataframe using the Pandas library. You can load the dataset directly into your Python environment using the following piece of code:
 
+```
 import pandas as pd
-LAGT = pd.read_parquet("https://zenodo.org/records/13761722/files/LAGT_v4-0.parquet?download=1")
+LAGT = pd.read_parquet("https://zenodo.org/records/13889714/files/LAGT_v4-1.parquet?download=1")
+```
+
 Individual works are represented by rows and columns represent attributes, such as the author ID (“doc_id”, e.g. “tlg0086”) and document ID (“doc_id”, e.g. “tlg010”) inherited from the source corpora, the date of creation expressed by means of an interval (“not_before” and “not_after”), manually annotated religious provenience as either pagan, Jewish or Christian (“provenience” attribute) etc., which allow various forms of sorting and filtering. The dating information is coded by means of the “not_before” and “not_after” attributes on the level of authors and with the precision of centuries.
 
 Concerning lemmatization, the dataset contains lemmatized sentences in the "lemmatized_sentences" attribute in form of a list-of-lists, with sublist elements representing individual lemmata. It contains only nouns, proper names, verbs and adjectives.
