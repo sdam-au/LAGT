@@ -5,7 +5,9 @@ ipykernel
 pandas
 matplotlib
 seaborn
+lxml
 pyconll # working with universal dependencies files
+graphannis # for working with ANNIS corpora such as OGA
 spacy # nlp
 greek-accentuation
 PyGithub
