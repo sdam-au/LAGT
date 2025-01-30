@@ -2,13 +2,16 @@
 
 jupyter
 ipykernel
+numpy
+spacy # nlp
 pandas
 matplotlib
 seaborn
 lxml
+nltk
 pyconll # working with universal dependencies files
 graphannis # for working with ANNIS corpora such as OGA
-spacy # nlp
+regex
 greek-accentuation
 PyGithub
 sddk
