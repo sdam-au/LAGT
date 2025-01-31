@@ -7,6 +7,7 @@ spacy # nlp
 pandas
 matplotlib
 seaborn
+gspread_dataframe
 lxml
 nltk
 pyconll # working with universal dependencies files
