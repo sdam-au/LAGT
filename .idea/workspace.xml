@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42fa46d5-ed17-485f-94c8-650249e09d1d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/LAGT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LAGT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/1_GLAUX-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/1_GLAUX-SENTENCES.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/3_NLP-GRECY.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/_NLP-GRECY.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/LAGT_quickstart-guide.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/LAGT_quickstart-guide.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enemy-christianity/scripts/0_grouped-corpus-making.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/scripts/0_grouped-corpus-making.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enemy-christianity/scripts/greek-bert-contextual-emb-experiments.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/scripts/greek-bert-contextual-emb-experiments.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labyrinth/scripts/3_labyrinth_embeddings_labert.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../labyrinth/scripts/3_labyrinth_embeddings_labert.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../metagreek/.idea/metagreek.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../metagreek/.idea/metagreek.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../metagreek/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../metagreek/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../metagreek/scripts/bert-metaphor-detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../metagreek/scripts/bert-metaphor-detection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/.idea/theos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/.idea/theos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/data/centuries_targets.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/data/centuries_targets.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/data/shared_vocabulary.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/data/shared_vocabulary.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/data/subcorpora_indicators_mi_df.json" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/data/subcorpora_indicators_mi_df.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/data/vocabulary_balanced.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/data/vocabulary_balanced.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/data/w2v_par_comparison_pagan_archaic.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/data/w2v_par_comparison_pagan_archaic.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/figures/subcorpora_frequencies+cooccurrences.png" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/figures/subcorpora_frequencies+cooccurrences.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/figures/subcorpora_frequencies+cooccurrences.tiff" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/figures/subcorpora_frequencies+cooccurrences.tiff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/figures/word_frequencies.png" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/figures/word_frequencies.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/figures/word_frequencies.tiff" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/figures/word_frequencies.tiff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/figures/word_frequencies_provenieces.png" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/figures/word_frequencies_provenieces.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/figures/word_frequencies_provenieces.tiff" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/figures/word_frequencies_provenieces.tiff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/scripts/1_lagt_ngrams_extraction+explorations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/scripts/1_lagt_ngrams_extraction+explorations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/scripts/2_frequencies+cooccurrences.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/scripts/2_frequencies+cooccurrences.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/scripts/3_lagt_subcorpora_models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/scripts/3_lagt_subcorpora_models.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theos/scripts/4_embeddings-validation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../theos/scripts/4_embeddings-validation.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2tar1NJyphWXOLC8RqjqvujD09E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jupyter-vojta/notebooks/labyrinth&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
+    <layout>
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="AI Playground" side_tool="true" />
+      <window_info id="Backup and Sync History" />
+      <window_info id="Commit_Guest" show_stripe_button="false" />
+      <window_info id="Pull Requests" />
+      <window_info id="Learn" />
+      <window_info id="R_Remote_Host" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22187501" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NextEditPredictionSettingsToolwindow" />
+      <window_info anchor="bottom" id="R_Jobs" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="R_Console" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="HfCacheToolWindow" />
+      <window_info anchor="bottom" id="Jupyter" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.14833334" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.100555554" />
+      <window_info anchor="bottom" id="mopdf" order="6" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.1" />
+      <window_info anchor="right" id="PR AI Assistant" />
+      <window_info anchor="right" id="Endpoints" />
+      <window_info anchor="right" id="cn.xcc.lock.gson.toolwindow.JsonAssistantToolWindowFactory" side_tool="true" />
+      <window_info anchor="right" id="R_Tools" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="right" id="ElectroJunToolWindow" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Jupyter Variables" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.16631944" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+    </layout>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../enemy-christianity/scripts" />
+      <recent name="$PROJECT_DIR$/../enemy-christianity/figures" />
+      <recent name="$PROJECT_DIR$/../theos/scripts" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42fa46d5-ed17-485f-94c8-650249e09d1d" name="Changes" comment="" />
+      <created>1740600810654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740600810654</updated>
+      <workItem from="1740600811677" duration="6398000" />
+      <workItem from="1741769312064" duration="1786000" />
+      <workItem from="1742475545666" duration="323000" />
+      <workItem from="1743019607784" duration="2742000" />
+      <workItem from="1743022648371" duration="206000" />
+      <workItem from="1743022889125" duration="11899000" />
+      <workItem from="1743766262060" duration="2181000" />
+      <workItem from="1745336577177" duration="5578000" />
+      <workItem from="1745400174742" duration="8073000" />
+      <workItem from="1746561009870" duration="17809000" />
+      <workItem from="1750236984559" duration="1427000" />
+      <workItem from="1750428009828" duration="2552000" />
+      <workItem from="1752187544807" duration="4608000" />
+      <workItem from="1753954189969" duration="3065000" />
+      <workItem from="1755923272834" duration="8086000" />
+      <workItem from="1756141045706" duration="1677000" />
+      <workItem from="1756212614882" duration="866000" />
+      <workItem from="1756214600629" duration="19000" />
+      <workItem from="1756216359461" duration="1416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

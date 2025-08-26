@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../enemy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../enemy-christianity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../labyrinth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../metagreek" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../theos" vcs="Git" />
+  </component>
+</project>
