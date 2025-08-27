@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42fa46d5-ed17-485f-94c8-650249e09d1d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/LAGT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LAGT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/1_GLAUX-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/1_GLAUX-SENTENCES.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/3_NLP-GRECY.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/_NLP-GRECY.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/LAGT_quickstart-guide.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/LAGT_quickstart-guide.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/2_OGA-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/2_OGA-SENTENCES.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/4_EXPRECCE-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/4_EXPRECCE-SENTENCES.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../enemy-christianity/scripts/0_grouped-corpus-making.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/scripts/0_grouped-corpus-making.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../enemy-christianity/scripts/greek-bert-contextual-emb-experiments.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/scripts/greek-bert-contextual-emb-experiments.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../labyrinth/scripts/3_labyrinth_embeddings_labert.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../labyrinth/scripts/3_labyrinth_embeddings_labert.ipynb" afterDir="false" />
@@ -91,7 +89,7 @@
       <window_info id="Learn" />
       <window_info id="R_Remote_Host" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22187501" />
-      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Commit" order="1" weight="0.22187501" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NextEditPredictionSettingsToolwindow" />
       <window_info anchor="bottom" id="R_Jobs" />
@@ -105,7 +103,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.14833334" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.29833335" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.100555554" />
       <window_info anchor="bottom" id="mopdf" order="6" />
@@ -168,7 +166,7 @@
       <workItem from="1756141045706" duration="1677000" />
       <workItem from="1756212614882" duration="866000" />
       <workItem from="1756214600629" duration="19000" />
-      <workItem from="1756216359461" duration="1416000" />
+      <workItem from="1756216359461" duration="21823000" />
     </task>
     <servers />
   </component>
