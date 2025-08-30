@@ -9,7 +9,7 @@
       <change beforePath="$PROJECT_DIR$/scripts/1_GLAUX-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/1_GLAUX-SENTENCES.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/2_OGA-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/2_OGA-SENTENCES.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/4_EXPRECCE-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/4_EXPRECCE-SENTENCES.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../enemy-christianity/scripts/0_grouped-corpus-making.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/scripts/0_grouped-corpus-making.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../enemy-christianity/scripts/greek-bert-contextual-emb-experiments.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/scripts/greek-bert-contextual-emb-experiments.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../labyrinth/scripts/3_labyrinth_embeddings_labert.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../labyrinth/scripts/3_labyrinth_embeddings_labert.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../metagreek/.idea/metagreek.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../metagreek/.idea/metagreek.iml" afterDir="false" />
@@ -66,7 +66,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/jupyter-vojta/notebooks/labyrinth&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -135,8 +135,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
-        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.35" />
+        <option value="bundled-python-sdk-cfca122e0627-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.35" />
       </set>
     </attachedChunks>
   </component>
@@ -166,7 +166,8 @@
       <workItem from="1756141045706" duration="1677000" />
       <workItem from="1756212614882" duration="866000" />
       <workItem from="1756214600629" duration="19000" />
-      <workItem from="1756216359461" duration="21823000" />
+      <workItem from="1756216359461" duration="26325000" />
+      <workItem from="1756529276362" duration="3664000" />
     </task>
     <servers />
   </component>
