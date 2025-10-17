@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42fa46d5-ed17-485f-94c8-650249e09d1d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/LAGT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LAGT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/1_GLAUX-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/1_GLAUX-SENTENCES.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/2_OGA-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/2_OGA-SENTENCES.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/4_EXPRECCE-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/4_EXPRECCE-SENTENCES.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/3_EXPRECCE-TO-PICKLES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/3_EXPRECCE-TO-PICKLES.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../enemy-christianity/scripts/greek-bert-contextual-emb-experiments.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/scripts/greek-bert-contextual-emb-experiments.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../labyrinth/scripts/3_labyrinth_embeddings_labert.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../labyrinth/scripts/3_labyrinth_embeddings_labert.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enemy-christianity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enemy-christianity/figures/grouped-polemical-temporal.png" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/figures/grouped-polemical-temporal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enemy-christianity/scripts/grouped-polemical-temporal.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/scripts/grouped-polemical-temporal.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labyrinth/scripts/0_2_latin-wsd-tests.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../labyrinth/scripts/0_2_latin-wsd-tests.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../metagreek/.idea/metagreek.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../metagreek/.idea/metagreek.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../metagreek/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../metagreek/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../metagreek/scripts/bert-metaphor-detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../metagreek/scripts/bert-metaphor-detection.ipynb" afterDir="false" />
@@ -60,24 +65,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jupyter-vojta/notebooks/labyrinth&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/jupyter-vojta/notebooks/enemy-christianity/scripts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -88,7 +94,7 @@
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
       <window_info id="R_Remote_Host" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22187501" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21215278" />
       <window_info id="Commit" order="1" weight="0.22187501" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NextEditPredictionSettingsToolwindow" />
@@ -99,11 +105,12 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="HfCacheToolWindow" />
+      <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Jupyter" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.29833335" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.31277776" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.100555554" />
       <window_info anchor="bottom" id="mopdf" order="6" />
@@ -116,13 +123,14 @@
       <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="ElectroJunToolWindow" />
       <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Jupyter Variables" side_tool="true" />
-      <window_info anchor="right" id="Notifications" order="0" />
-      <window_info anchor="right" id="AIAssistant" order="1" weight="0.16631944" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33020833" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33020833" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <window_info anchor="right" id="Tabnine Chat" order="6" weight="0.33020833" />
+      <window_info anchor="right" id="Jupyter Variables" order="7" side_tool="true" weight="0.33020833" />
     </layout>
   </component>
   <component name="RecentsManager">
@@ -135,8 +143,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.35" />
-        <option value="bundled-python-sdk-cfca122e0627-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.35" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
       </set>
     </attachedChunks>
   </component>
@@ -167,7 +175,14 @@
       <workItem from="1756212614882" duration="866000" />
       <workItem from="1756214600629" duration="19000" />
       <workItem from="1756216359461" duration="26325000" />
-      <workItem from="1756529276362" duration="3664000" />
+      <workItem from="1756529276362" duration="15773000" />
+      <workItem from="1756733738877" duration="11692000" />
+      <workItem from="1757013944990" duration="917000" />
+      <workItem from="1760688552623" duration="2043000" />
+      <workItem from="1760692321694" duration="63000" />
+      <workItem from="1760692465340" duration="528000" />
+      <workItem from="1760693018777" duration="92000" />
+      <workItem from="1760693131028" duration="1634000" />
     </task>
     <servers />
   </component>
