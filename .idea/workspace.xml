@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42fa46d5-ed17-485f-94c8-650249e09d1d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/LAGT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LAGT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/6_ADDING-MANUAL-METADATA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/_ADDING-MANUAL-METADATA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../enemy-christianity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../enemy-christianity/figures/grouped-polemical-temporal.png" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/figures/grouped-polemical-temporal.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../enemy-christianity/scripts/grouped-polemical-temporal.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/scripts/grouped-polemical-temporal.ipynb" afterDir="false" />
@@ -189,7 +183,7 @@
       <workItem from="1760693131028" duration="7142000" />
       <workItem from="1761307695250" duration="741000" />
       <workItem from="1762880675270" duration="1210000" />
-      <workItem from="1762884545323" duration="6524000" />
+      <workItem from="1762884545323" duration="7028000" />
     </task>
     <servers />
   </component>
