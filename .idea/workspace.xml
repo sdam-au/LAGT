@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42fa46d5-ed17-485f-94c8-650249e09d1d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/LAGT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LAGT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/1_GLAUX-SENTENCES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/1_GLAUX-SENTENCES.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/3_EXPRECCE-TO-PICKLES.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/3_EXPRECCE-TO-PICKLES.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/5_OGA&amp;GLAUX&amp;EXPRECCE&amp;LAGT-MERGE.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../enemy-christianity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../enemy-christianity/figures/grouped-polemical-temporal.png" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/figures/grouped-polemical-temporal.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../enemy-christianity/scripts/grouped-polemical-temporal.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../enemy-christianity/scripts/grouped-polemical-temporal.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../labyrinth/scripts/0_2_latin-wsd-tests.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../labyrinth/scripts/0_2_latin-wsd-tests.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labyrinth/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../labyrinth/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labyrinth/scripts/6_labyrinth_classification-evaluations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../labyrinth/scripts/6_labyrinth_classification-evaluations.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../metagreek/.idea/metagreek.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../metagreek/.idea/metagreek.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../metagreek/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../metagreek/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../metagreek/scripts/bert-metaphor-detection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../metagreek/scripts/bert-metaphor-detection.ipynb" afterDir="false" />
@@ -43,6 +39,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="4284" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
   <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
     <envs>
       <env key="FLASK_APP" value="app" />
@@ -65,25 +65,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/jupyter-vojta/notebooks/enemy-christianity/scripts",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jupyter-vojta/notebooks/enemy-christianity/scripts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -92,7 +92,7 @@
       <window_info id="Backup and Sync History" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
-      <window_info id="Learn" />
+      <window_info id="Learn" show_stripe_button="false" />
       <window_info id="R_Remote_Host" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21215278" />
       <window_info id="Commit" order="1" weight="0.22187501" />
@@ -105,12 +105,13 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="HfCacheToolWindow" />
+      <window_info anchor="bottom" id="PythonProcessOutput" />
       <window_info anchor="bottom" id="Find" />
       <window_info anchor="bottom" id="Jupyter" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.31277776" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32989067" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.100555554" />
       <window_info anchor="bottom" id="mopdf" order="6" />
@@ -123,7 +124,7 @@
       <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="ElectroJunToolWindow" />
       <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Notifications" order="0" weight="0.33020833" />
+      <window_info active="true" anchor="right" id="Notifications" order="0" visible="true" weight="0.33020833" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.33020833" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
@@ -143,8 +144,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
-        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-PY-253.28086.55" />
+        <option value="bundled-python-sdk-43f194345aec-a8a68a0a8659-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28086.55" />
       </set>
     </attachedChunks>
   </component>
@@ -182,7 +183,9 @@
       <workItem from="1760692321694" duration="63000" />
       <workItem from="1760692465340" duration="528000" />
       <workItem from="1760693018777" duration="92000" />
-      <workItem from="1760693131028" duration="1634000" />
+      <workItem from="1760693131028" duration="7142000" />
+      <workItem from="1761307695250" duration="741000" />
+      <workItem from="1762880675270" duration="1210000" />
     </task>
     <servers />
   </component>
