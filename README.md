@@ -9,7 +9,7 @@ Vojtěch Kaše, Söderholm, H., Vesala, J., & Nikki, N. (2024). LAGT (v4.1) [Dat
 
 ## Description
 
-This repository contains scripts and additional data used for production of the LAGT dataset.
+This repository contains scripts and additional data used for production of the LAGT dataset. Since version v5.0, we dont publish the data independently, but only as a part of the GreLa database.
 
 LAGT is s a dataset of lemmatized ancient Greek texts, combining works from the Perseus Digital Library, the First 1000 Years of Greek, the GLAUx corpus, and a subset of additional early Christian texts added gradually.
 
@@ -39,6 +39,16 @@ The source of the lemmata for individual documents is documented in the "lemmata
 
 1. Python 3
 2. Jupyter Lab/Hub/Notebooks (Jupyter notebooks files)
+
+## Version history
+- 5.0
+  - radical revisions of the preprocessing pipeline (managed by Jimi Visala)
+  - new versions of EXPRECCE texts
+- 4.1
+  - slight imporvements of the processing
+- 4.0
+  - Greek texts from OGA + GLAUx + EXPRECCE
+
 
 
 ## License
