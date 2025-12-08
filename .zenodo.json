@@ -1,47 +1,28 @@
 {
   "title": "LAGT",
-  "upload_type": "dataset",
-  "description": "LAGT (Lemmatized Ancient Greek Texts) is a machine-readable, morphologically annotated corpus of Ancient Greek Literature",
+  "description": "LAGT (Lemmatized Ancient Greek Texts) is a machine-readable, morphologically annotated corpus of Ancient Greek literature.",
   "creators": [
     {
       "name": "Kaše, Vojtěch",
       "orcid": "0000-0002-6601-1605",
-      "affiliation": "University of West Bohemia; Czech Academy of Sciences, Institute of Philosophy",
-      "type": "ProjectLeader"
+      "affiliation": "University of West Bohemia; Czech Academy of Sciences, Institute of Philosophy"
     },
     {
       "name": "Vesala, Jimi",
       "orcid": "0009-0002-2515-3727",
-      "affiliation": "University of Helsinki",
-      "type": "DataManager"
+      "affiliation": "University of Helsinki"
     },
     {
       "name": "Söderholm, Harri",
       "orcid": "0009-0002-8466-6872",
-      "affiliation": "University of Helsinki",
-      "type": "DataCurator"
+      "affiliation": "University of Helsinki"
     },
     {
       "name": "Nikki, Nina",
       "orcid": "0000-0003-3748-8129",
-      "affiliation": "Umeå University",
-      "type": "DataManager"
+      "affiliation": "Umeå University"
     }
   ],
   "access_right": "open",
-  "license": "cc-by-sa-4.0",
-  "related_identifiers": [
-    {
-      "identifier": "https://github.com/sdam-au/LAGT/tree/v5.1",
-      "relation": "isSupplementTo",
-      "resource_type": "software"
-    }
-  ],
-  "keywords": [
-    "Ancient Mediterranean",
-    "Greek",
-    "Digital Classical Philology",
-    "Computational Classics"
-  ],
-  "language": "grc"
+  "license": "CC-BY-SA-4.0"
 }
