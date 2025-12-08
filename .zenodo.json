@@ -38,11 +38,10 @@
     }
   ],
   "keywords": [
-    "Early Modern",
-    "Latin",
-    "alchemy",
-    "EMLAP",
-    "dataset"
+    "Ancient Mediterranean",
+    "Greek",
+    "Digital Classical Philology",
+    "Computational Classics",
   ],
-  "language": "lat"
+  "language": "grc"
 }
