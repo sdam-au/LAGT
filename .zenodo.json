@@ -1,0 +1,48 @@
+{
+  "title": "LAGT",
+  "upload_type": "dataset",
+  "description": "LAGT (Lemmatized Ancient Greek Texts) is a machine-readable, morphologically annotated corpus of Ancient Greek Literature",
+  "creators": [
+    {
+      "name": "Kaše, Vojtěch",
+      "orcid": "0000-0002-6601-1605",
+      "affiliation": "University of West Bohemia; Czech Academy of Sciences, Institute of Philosophy",
+      "type": "ProjectLeader"
+    },
+    {
+      "name": "Visala, Jimmi",
+      "orcid": "0009-0002-2515-3727",
+      "affiliation": "University of Helsinki",
+      "type": "DataManager"
+    },
+    {
+      "name": "Söderholm, Harri",
+      "orcid": "0009-0002-8466-6872",
+      "affiliation": "University of Helsinki",
+      "type": "DataCurator"
+    },
+    {
+      "name": "Nikki, Nina",
+      "orcid": "0000-0003-3748-8129",
+      "affiliation": "Umeå University",
+      "type": "DataManager"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-sa-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/sdam-au/LAGT/",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "keywords": [
+    "Early Modern",
+    "Latin",
+    "alchemy",
+    "EMLAP",
+    "dataset"
+  ],
+  "language": "lat"
+}

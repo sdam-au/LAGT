@@ -1,11 +1,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13889714.svg)](https://doi.org/10.5281/zenodo.13889714)
 
-LAGT: Lemmatized Ancient Greek Texts (v4.1)
+LAGT: Lemmatized Ancient Greek Texts (v5.1)
 ------------------------------------
 
 ## Citation
-
-Vojtěch Kaše, Söderholm, H., Vesala, J., & Nikki, N. (2024). LAGT (v4.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.13889714
+()
 
 ## Description
 
