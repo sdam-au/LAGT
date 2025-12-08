@@ -32,7 +32,7 @@
   "license": "cc-by-sa-4.0",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/sdam-au/LAGT/",
+      "identifier": "https://github.com/sdam-au/LAGT/tree/v5.1",
       "relation": "isSupplementTo",
       "resource_type": "software"
     }
