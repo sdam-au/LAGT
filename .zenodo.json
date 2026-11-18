@@ -1,6 +1,6 @@
 {
   "title": "LAGT",
-  "description": "LAGT (Lemmatized Ancient Greek Texts) is a machine-readable, morphologically annotated corpus of Ancient Greek literature.",
+  "description": "LAGT (Lemmatized Ancient Greek Texts) is a machine-readable, morphologically annotated corpus of Ancient Greek literature. This repository contains scripts and additional data used for production of the corpus. Since version 5.0, we don't publish the corpus independently, but only as a part of the GreLa database. For older versions of the full corpus, refer to https://zenodo.org/records/13889714.",
   "creators": [
     {
       "name": "Kaše, Vojtěch",

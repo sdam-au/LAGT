@@ -1,4 +1,6 @@
-LAGT: Lemmatized Ancient Greek Texts (v5.1)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17865189.svg)](https://doi.org/10.5281/zenodo.17865189)
+
+LAGT: Lemmatized Ancient Greek Texts (v5.2)
 ------------------------------------
 
 ## Citation
@@ -6,7 +8,7 @@ LAGT: Lemmatized Ancient Greek Texts (v5.1)
 
 ## Description
 
-This repository contains scripts and additional data used for production of the LAGT dataset. Since version v5.0, we dont publish the data independently, but only as a part of the GreLa database.
+This repository contains scripts and additional data used for production of the LAGT dataset. Since version v5.0, we don't publish the data independently, but only as a part of the GreLa database.
 
 LAGT is s a dataset of lemmatized ancient Greek texts, combining works from the Perseus Digital Library, the First 1000 Years of Greek, the GLAUx corpus, and a subset of additional early Christian texts added gradually.
 
@@ -37,9 +39,13 @@ The source of the lemmata for individual documents is documented in the "lemmata
 1. Python 3
 2. Jupyter Lab/Hub/Notebooks (Jupyter notebooks files)
 
+##
+- deal properly with "sent_id" for works based on merge of several glaux' files: since there are repeatedly used "sent_id" in case of works combined from multiple parts. An example is tlg0007.051, Plutarch's Agis and Cleomenes, stored as "0007-051a" and "0007-051b" in glaux, but here (and also in tlg and Perseus) treated as a single work)
+
+
 ## Version history
 - 5.0
-  - radical revisions of the preprocessing pipeline (managed by Jimi Visala)
+  - radical revisions of the preprocessing pipeline (managed by Jimi Vesala)
   - new versions of EXPRECCE texts
 - 4.1
   - slight imporvements of the processing
@@ -51,3 +57,10 @@ The source of the lemmata for individual documents is documented in the "lemmata
 ## License
 
 CC-BY-SA 4.0, see attached License.md
+
+## Repository housekeeping
+
+IDE artifacts (`.idea/`, `*.iml`) and Jupyter checkpoints (`.ipynb_checkpoints/`)
+are not tracked. Bulk data and model directories (`large_files/`, `large_data/`)
+are never committed; keep large inputs and outputs there. See the
+[organizer](https://github.com/kasev/organizer) workspace for the shared workflow.
